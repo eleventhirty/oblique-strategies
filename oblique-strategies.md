@@ -1,205 +1,225 @@
-Distorting time.
+Abandon desire
 
-Remove ambiguities and convert to specifics.
+Abandon normal instructions
 
-Are there sections? Consider transitions.
+Accept advice
 
-Be dirty.
+Adding on
 
-Make a sudden, destructive unpredictable action; incorporate.
+A line has two sides
 
-Take away the elements in order of apparent non importance.
+Always the first steps
 
-Is there something missing?
+Ask people to work against their better judgement
 
-Listen to the quiet voice.
+Ask your body
 
-Do the words need changing?
+Be dirty
 
-Who should be doing this job? How would they do it?
+Be extravagant
 
-Overtly resist change.
+Be less critical
 
-Remember those quiet evenings.
+Breathe more deeply
 
-In total darkness or in a very large room, very quietly.
+Bridges -build -burn
 
-How would you have done it?
+Change ambiguities to specifics
 
-Accept advice.
+Change nothing and continue consistently
 
-Ask people to work against their better judgement.
+Change specifics to ambiguities
 
-Question the heroic approach.
-
-Go to an extreme, move back to a more comfortable place.
-
-Discover the recipes you are using and abandon them.
-
-Disciplined self-indulgence.
-
-Repetition is a form of change.
-
-Reverse.
-
-Use 'unqualified' people.
-
-Abandon normal instruments.
-
-Give the game away.
-
-The most important thing is the thing most easily forgotten.
-
-What mistakes did you make last time?
-
-Slow preparation; fast execution.
-
-Work at a different speed.
-
-You are an engineer.
-
-Be less critical more often.
-
-Do we need holes?
-
-Use an unacceptable colour.
-
-Remove specifics and convert to ambiguities.
-
-Make it more sensual.
-
-What wouldn't you do?
-
-Try faking it!
-
-Towards the insignificant.
-
-Turn it upside down.
-
-Don't be frightened of clichés.
-
-Use filters.
-
-You don't have to be ashamed of using your own ideas.
-
-Gardening, not architecture.
-
-Give way to your worst impulse.
-
-Tidy up.
-
-Would anybody want it?
-
-Do nothing for as long as possible.
-
-Water.
-
-Make something implied more definite (reinforce, duplicate).
-
-Breathe more deeply.
-
-Look closely at the most embarrassing details and amplify them.
-
-Don't stress one thing more than another.
-
-Use an old idea.
-
-Emphasize the flaws.
-
-Look at the order in which you do things.
-
-Trust in the you of now.
-
-Think: Inside the work. Outside the work.
-
-What would your closest friend do?
-
-Do something boring.
-
-Which elements can be grouped?
-
-Accretion.
-
-Allow an easement (an easement is the abandonment of a stricture).
-
-Voice nagging suspicions.
-
-What are you really thinking about just now? Incorporate.
-
-Simple subtraction.
-
-State the problem in words as clearly as possible.
-
-Disconnect from desire.
-
-Discard an axiom.
-
-Once the search is in progress, something will be found.
-
-Only one element of each kind.
-
-Make a blank valuable by putting it in an exquisite frame.
-
-Make an exhaustive list of everything you might do and do the last thing on the list.
-
-What to maintain?
-
-Which frame would make this look right?
-
-Cut a vital connection.
-
-Define an area as 'safe' and use it as an anchor.
-
-Emphasize differences.
-
-Where's the edge? Where does the frame start?
-
-Humanize something free of error.
-
-Is it finished?
-
-Take a break.
-
-The inconsistency principle.
-
-Always first steps.
-
-Ask your body.
-
-Short circuit (example: a man eating peas with the idea that they will improve his virility shovels them straight into his lap).
-
-Simply a matter of work.
-
-Don't break the silence.
-
-Faced with a choice do both.
+Consider transitions
 
 Courage!
 
-Not building a wall but making a brick.
+Cut a vital connection
 
-Only a part, not the whole.
+Decorate, decorate
 
-Be extravagant.
+Destroy nothing; destroy the most important thing
 
-Change nothing and continue with immaculate consistency.
+Discard an axiom
+
+Disciplined self-indulgence
+
+Discover your formulas and abandon them
+
+Display your talent
+
+Distort time
+
+Do nothing for as long as possible
+
+Don’t avoid what is easy
+
+Don’t break the silence
+
+Don’t stress one thing more than another
+
+Do something boring
+
+Do something sudden, destructive and unpredictable
+
+Do the last thing first
+
+Do the words need changing?
+
+Emphasise differences
+
+Emphasise the flaws
+
+Faced with a choice, do both (From Dieter Rot.)
+
+Find a safe part and use it as an anchor
+
+Give the game away
+
+Give way to your worst impulse
 
 Go outside. Shut the door.
 
-Honour thy error as a hidden intention.
+Go to an extreme, come part way back
 
-Don't be afraid of things because they're easy to do.
+How would someone else do it?
 
-Don't be frightened to display your talents.
+How would you have done it?
 
-Retrace your steps.
+In total darkness, or in a very large room, very quietly
 
-Just carry on.
+Is it finished?
 
-What to increase? What to reduce?
+Is something missing?
+
+Is the style right?
+
+It is simply a matter or work
+
+Just carry on
+
+Listen to the quiet voice
+
+Look at the order in which you do things
+
+Magnify the most difficult details
+
+Make it more sensual
+
+Make what’s perfect more human
+
+Move towards the unimportant
+
+Not building a wall; making a brick
+
+Once the search has begun, something will be found
+
+Only a part, not the whole
+
+Only one element of each kind
+
+Openly resist change
+
+Pae White’s non-blank graphic metacard
+
+Question the heroic approach
+
+Remember quiet evenings
+
+Remove a restriction
+
+Repetition is a form of change
+
+Retrace your steps
+
+Reverse
+
+Simple Subtraction
+
+Slow preparation, fast execution
+
+State the problem as clearly as possible
+
+Take a break
+
+Take away the important parts
+
+The inconsistency principle
+
+The most easily forgotten thing is the most important
+
+Think -inside the work -outside the work
+
+Tidy up
+
+Try faking it (From Stewart Brand.)
+
+Turn it upside down
+
+Use an old idea
+
+Use cliches
+
+Use filters
+
+Use something nearby as a model
+
+Use ‘unqualified’ people
+
+Use your own ideas
+
+Voice your suspicions
+
+Water
+
+What context would look right?
+
+What is the simplest solution?
+
+What mistakes did you make last time?
+
+What to increase? What to reduce? What to maintain?
+
+What were you really thinking about just now?
+
+What wouldn’t you do?
+
+What would your closest friend do?
 
 When is it for?
 
-Decorate, decorate.
+Where is the edge?
 
-Destroy: Nothing. The most important thing.
+Which parts can be grouped?
+
+Work at a different speed
+
+Would anyone want it?
+
+Your mistake was a hidden intention
+
+Use fewer notes
+
+Use filters
+
+Use ‘unqualified’ people
+
+Water
+
+What are you really thinking about just now? Incorporate
+
+What is the reality of the situation?
+
+What mistakes did you make last time?
+
+What would your closest friend do?
+
+What wouldn’t you do?
+
+Work at a different speed
+
+You are an engineer
+
+You can only make one dot at a time
+
+You don’t have to be ashamed of using your own ideas,
